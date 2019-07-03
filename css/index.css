@@ -1,0 +1,389 @@
+.page1 .img01{
+position: absolute;
+top: 0;
+left: 0;
+width: 150%;
+height: 110%;
+}
+.page1 .img01{
+    transform-origin: center 10px;
+}
+.page1 .guaduan{
+    height: 1rem;
+    position: absolute;
+    margin-top:5rem;
+    display:block;
+    margin-left:.5rem;
+}
+.page1 .jieting{
+    height: .9rem;
+    position: absolute;
+    margin-top:5rem;
+    display:block;
+    margin-left:2.45rem;
+}
+.name{
+    position: absolute;
+    z-index: 5;
+    left: 50%;
+    transform: translateX(-50%);
+    top: .6rem;
+}
+.name span{
+    display: block;
+    font-size: .4rem;
+    color: white;
+}
+.deng{
+    position: absolute;
+    z-index: 5;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 1.25rem;
+}
+.deng span{
+    display: block;
+    font-size: .2rem;
+    color: white;
+}
+.page2{
+    z-index:6;
+}
+.page2 .img02{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.qingjian{
+    position: absolute;
+    z-index: 7;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 3.5rem;
+}
+.qingjian span{
+    display: block;
+    font-size: .2rem;
+    color: white;
+}
+.page2 .zhiwen{
+    /* height: 85px; */
+    position: absolute;
+    margin-top:4.2rem;
+    display:block;
+    margin-left:.9rem;
+}
+.page2 .zhiwen1{
+    position: absolute;
+    margin-top:5.2rem;
+    display:block;
+    margin-left:.8rem;
+}
+.page2 .zhiwen2{
+    position: absolute;
+    margin-top:.2rem;
+    display:block;
+    margin:center;
+}
+.page3 .page3-1{
+    position: absolute;
+    background:#000;
+    height:100%;
+    width:100%;
+    z-index:7;
+}
+.page3 .page3-1 .w1{
+    
+    font-size:0.8rem;
+    position: absolute;
+    top:2.5rem;
+    left:.2rem;
+    color:white;
+}
+.page3 .img03{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 8;
+}
+.page3 .page3-2{
+    position: absolute;
+    background:#000;
+    height:100%;
+    width:100%;
+    z-index:9;
+}
+.page3 .page3-2 .w2{
+    z-index:10;
+    font-size:.8rem;
+    position: absolute;
+    top:2.5rem;
+    left:.2rem;
+    color:white;
+}
+.page3 .img03-1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 11;
+}
+.page3 .page3-3{
+    position: absolute;
+    background:rgb(156,44,38);
+    height:100%;
+    width:100%;
+    z-index:12;
+}
+.page3 .page3-3 .w3{
+    font-size:1rem;
+    position: absolute;
+    top:.5rem;
+    left:1.5rem; 
+    color:white;
+}
+.page3 .page3-4{
+    position: absolute;
+    background:rgb(156,44,38);
+    height:100%;
+    width:100%;
+    z-index:13;
+}
+.page3 .page3-4 .w4{
+    font-size:2rem;
+    position: absolute;
+    top:1.8rem;
+    left:.8rem; 
+    color:white;
+}
+.page3 .page3-5{
+    position: absolute;
+    background:rgb(156,44,38);
+    height:100%;
+    width:100%;
+    z-index:13;
+}
+.page3 .page3-5 .w5{
+    font-size:2rem;
+    position: absolute;
+    top:1.8rem;
+    left:.8rem; 
+    color:white;
+}
+.page3 .page3-6{
+    position: absolute;
+    background:rgb(156,44,38);
+    height:100%;
+    width:100%;
+    z-index:13;
+}
+.page3 .page3-6 .w6{
+    font-size:2rem;
+    position: absolute;
+    top:1.8rem;
+    left:.8rem; 
+    color:white;
+}
+.page3 .page3-7{
+    position: absolute;
+    background:rgb(156,44,38);
+    height:100%;
+    width:100%;
+    z-index:13;
+}
+.page3 .page3-7 .w7{
+    font-size:2rem;
+    position: absolute;
+    top:1.8rem;
+    left:.8rem; 
+    color:white;
+}
+.page3 .page3-8{
+    position: absolute;
+    background:#000;
+    height:100%;
+    width:100%;
+    z-index:14;
+}
+.page3 .page3-8 .w8{
+    font-size:.8rem;
+    position: absolute;
+    top:2.2rem;
+    left:.8rem; 
+    color:white;
+}
+.page3 .page3-9{
+    position: absolute;
+    background:#000;
+    height:100%;
+    width:100%;
+    z-index:14;
+}
+.page3 .page3-9 .w9{
+    font-size:.8rem;
+    position: absolute;
+    top:2.8rem;
+    left:.8rem; 
+    color:white;
+}
+.page3 .page3-10{
+    position: absolute;
+    background:rgb(156,44,38);
+    height:100%;
+    width:100%;
+    z-index:15;
+}
+.page3 .page3-10 .w10{
+    font-size:1rem;
+    position: absolute;
+    top:.5rem;
+    left:1.5rem; 
+    color:white;
+}
+.page3 .page3-11{
+    position: absolute;
+    background:rgb(156,44,38);
+    height:100%;
+    width:100%;
+    z-index:15;
+}
+.page3 .page3-11 .w11{
+    font-size:1rem;
+    position: absolute;
+    top:.5rem;
+    left:1.5rem; 
+    color:white;
+}
+.page3 .page3-12{
+    position: absolute;
+    background:rgb(156,44,38);
+    height:100%;
+    width:100%;
+    z-index:16;
+}
+.page3 .page3-12 .w12{
+    font-size:.6rem;
+    position: absolute;
+    top:2rem;
+    left:.8rem; 
+    color:white;
+}
+.page3 .page3-13{
+    position: absolute;
+    background:rgb(156,44,38);
+    height:100%;
+    width:100%;
+    z-index:17;
+}
+.page3 .page3-13 .w13{
+    font-size:2rem;
+    position: absolute;
+    top:1.8rem;
+    left:.8rem; 
+    color:white;
+}
+.page3 .page3-14{
+    position: absolute;
+    background:rgb(156,44,38);
+    height:100%;
+    width:100%;
+    z-index:17;
+}
+.page3 .page3-14 .w14{
+    font-size:1rem;
+    position: absolute;
+    top:2rem;
+    left:.8rem; 
+    color:white;
+}
+.page3 .page3-15{
+    position: absolute;
+    background:rgb(156,44,38);
+    height:100%;
+    width:100%;
+    z-index:17;
+}
+.page3 .page3-15 .w15{
+    font-size:1rem;
+    position: absolute;
+    top:2.5rem;
+    left:.8rem; 
+    color:white;
+}
+.page3 .page3-15 .w15-1{
+    font-size:1.35rem;
+    position: absolute;
+    top:.5rem;
+    left:.8rem; 
+    color:white;
+}
+.page3 .page3-15 .w15-2{
+    font-size:1.35rem;
+    position: absolute;
+    top:4.2rem;
+    left:.8rem; 
+    color:white;
+}
+.page3 .page3-16{
+    position: absolute;
+    background:rgb(156,44,38);
+    height:100%;
+    width:100%;
+    z-index:17;
+}
+.page3 .page3-16 .w16{
+    font-size:1.45rem;
+    position: absolute;
+    top:2rem;
+    left:.6rem; 
+    color:white;
+}
+.page3 .page3-17{
+    position: absolute;
+    background:rgb(156,44,38);
+    height:100%;
+    width:100%;
+    z-index:19;
+}
+.page3 .page3-17 .w17{
+    font-size:1.8rem;
+    position: absolute;
+    top:.8rem;
+    left:1.2rem; 
+    color:white;
+}
+.page3 .img04{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 19;
+}
+.page3 .page3-18{
+    position: absolute;
+    background:rgb(156,44,38);
+    height:100%;
+    width:100%;
+    z-index:19;
+}
+.page3 .page3-18 .w18{
+    font-size:1.5rem;
+    position: absolute;
+    top:.2rem;
+    left:1.2rem; 
+    color:white;
+}
+.page3 .img05{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150%;
+    height: 130%;
+    z-index: 19;
+}
